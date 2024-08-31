@@ -719,7 +719,55 @@ hr {
         align-items: center;
     }
 .Hero {
-    margin:20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.Hero-left {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.title h1 {
+    font-size: 24px;
+    display: block;
+    margin: 5px 0;
+
+}
+
+.button {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.order {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+}
+
+
+
+.playbutton button {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.playbutton img {
+    width: 30px;
+    height: 20px;
+}
+
+.playbutton h4 {
+    font-size: 16px;
+    margin-left: 5px;
+}
+
+.delievery img {
+    width: 120px;
+    height: auto;
 }
     .search-container {
         flex-direction: column;
