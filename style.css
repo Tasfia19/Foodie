@@ -718,7 +718,9 @@ hr {
     .navbar ul {
         align-items: center;
     }
-
+.Hero {
+    margin:20px;
+}
     .search-container {
         flex-direction: column;
         align-items: center;
